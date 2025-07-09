@@ -11,6 +11,7 @@ import Navbar from './components/Navbar';
 
 export const url = 'https://backend-music-xce5.onrender.com';
 
+
 const App = () => {
   return (
     <div className='flex items-start min-h-screen'>
